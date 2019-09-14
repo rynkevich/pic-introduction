@@ -1,0 +1,7 @@
+*.cof
+*.err
+*.HEX
+*.lst
+*.map
+*.mcs
+*.O
